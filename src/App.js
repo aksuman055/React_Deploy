@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>test gh-test  to reload.
+        <p>test gh-test for 2nd time  to reload.
         </p>
         <a
           className="App-link"
