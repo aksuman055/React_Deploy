@@ -2,7 +2,7 @@
   "name": "react-deploy",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://aksuman055.github.io/React_App_Deploy/",
+  "homepage": "https://aksuman055.github.io/React_Deploy/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
